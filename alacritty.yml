@@ -138,32 +138,32 @@ font:
 #draw_bold_text_with_bright_colors: false
 # Colors (Tomorrow Night)
 colors:
-  name: Atelierforest (light)
-  author: Chris Kempson
+  name: FarSide
+  author: Baskerville
   primary:
-    background: "#f1efee"
-    foreground: "#68615e"
+    background: "#000000"
+    foreground: "#919191"
   cursor:
-    text: "#f1efee"
-    cursor: "#68615e"
+    text: "#000000"
+    cursor: "#919191"
   normal:
-    black: "#1b1918"
-    red: "#f22c40"
-    green: "#5ab738"
-    yellow: "#d5911a"
-    blue: "#407ee7"
-    magenta: "#6666ea"
-    cyan: "#00ad9c"
-    white: "#a8a19f"
+    black: "#303030"
+    red: "#a43261"
+    green: "#006ca5"
+    yellow: "#007086"
+    blue: "#6751a6"
+    magenta: "#913e88"
+    cyan: "#0061b1"
+    white: "#c6c6c6"
   bright:
-    black: "#766e6b"
-    red: "#f22c40"
-    green: "#5ab738"
-    yellow: "#d5911a"
-    blue: "#407ee7"
-    magenta: "#6666ea"
-    cyan: "#00ad9c"
-    white: "#f1efee"
+    black: "#5e5e5e"
+    red: "#ff9fc9"
+    green: "#3bd6ff"
+    yellow: "#00ddf4"
+    blue: "#d5b8ff"
+    magenta: "#ffa7f6"
+    cyan: "#93c9ff"
+    white: "#ffffff"
 # Background opacity
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
